@@ -1,0 +1,79 @@
+{
+    "name": "Putler",
+    "description": "Winning with Privacy. Personal Data Economy Digital Trust. Consumer Empowerment. Business risk profiling. Data-centric Products. GDPR Personal Data Layer.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2022-putler.jpg",
+    "tags": [
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/putler\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Putler",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/2022-putler.jpg",
+            "humanURL": "http:\/\/pryv.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/putler-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/putler-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/api.pryv.com"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/pryv"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/pryv"
+        },
+        {
+            "type": "Email",
+            "url": "info@pryv.com"
+        },
+        {
+            "type": "Email",
+            "url": "business@pryv.com"
+        },
+        {
+            "type": "Email",
+            "url": "media@pryv.com"
+        },
+        {
+            "type": "Email",
+            "url": "sales@pryv.com"
+        },
+        {
+            "type": "Email",
+            "url": "support@pryv.com"
+        },
+        {
+            "type": "Email",
+            "url": "jobs@pryv.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Pryv"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/pryv.com"
+        }
+    ]
+}
